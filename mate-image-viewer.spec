@@ -1,11 +1,11 @@
 Summary:	MATE image viewer
 Name:		mate-image-viewer
-Version:	1.6.1
+Version:	1.6.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://pub.mate-desktop.org/sources/mate-image-viewer/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	5000fc45beddebeabd49c5a80994f867
+# Source0-md5:	de728693721f1b35166f7687bba1f70d
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	exempi-devel
